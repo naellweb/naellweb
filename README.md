@@ -47,5 +47,4 @@
    <code><a href="https://www.facebook.com/naellweb/" target="_blank"><img width='30'height="30" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg"></a></code> <br>
   
   Or on my website => https://naellweb.github.io/naellweb/
-
  </div>
