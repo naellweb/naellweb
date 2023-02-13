@@ -8,7 +8,7 @@
 <h4 align='center'>أؤكد أن أي إنجاز لا بد أن يبدأ برغبة عارمة متأججة في شيء محدد..💛</h4>
 <hr>
 
-<h3>✨I'm Nael Abuanza from Gaza, Palestine🍀</h3>
+<h3>✨I'm Nael Abuanza from Gaza, Palestine🍀 plane </h3> 
 
 - 🔭 I'm got a Gaza Sky Geeks Career Accelerator internship.
 
